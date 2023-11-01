@@ -17,8 +17,8 @@ window.scrollTo(0,0)
 } >
 <img src={logo} alt='logo' className='w-9 h-9 object-contain'/>
 <p className='text-white text-[18px] font-bold cursor-pointer flex'>
-  Ahmed Musa &nbsp;
-  <span className='sm:block hidden'>| Developer Portfolio</span></p>
+  Halal Foundation &nbsp;
+  <span className='sm:block hidden'>| Official Website</span></p>
 </Link>
 <ul className='list-none hidden sm:flex flex-row gap-10'>
   {navLinks.map((link)=>(
